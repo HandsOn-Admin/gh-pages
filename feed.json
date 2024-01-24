@@ -9,5 +9,19 @@
         "name": "HandsOn"
     },
     "items": [
+        {
+            "id": "https://handson-admin.github.io/gh-pages/this-is-moritz-test-post.html",
+            "url": "https://handson-admin.github.io/gh-pages/this-is-moritz-test-post.html",
+            "title": "This is Moritz&#x27; test post",
+            "summary": "test test test",
+            "content_html": "<p>test test test</p>\n",
+            "author": {
+                "name": "HandsOn"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T11:37:05+01:00",
+            "date_modified": "2024-01-24T11:37:46+01:00"
+        }
     ]
 }
