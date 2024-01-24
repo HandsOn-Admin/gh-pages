@@ -3,12 +3,32 @@
     <title>HandsOn</title>
     <link href="https://handson-admin.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://handson-admin.github.io/gh-pages" />
-    <updated>2024-01-24T11:37:46+01:00</updated>
+    <updated>2024-01-24T11:46:55+01:00</updated>
     <author>
         <name>HandsOn</name>
     </author>
     <id>https://handson-admin.github.io/gh-pages</id>
 
+    <entry>
+        <title>Test2</title>
+        <author>
+            <name>HandsOn</name>
+        </author>
+        <link href="https://handson-admin.github.io/gh-pages/test2.html"/>
+        <id>https://handson-admin.github.io/gh-pages/test2.html</id>
+
+        <updated>2024-01-24T11:46:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello M.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello M.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>This is Moritz&#x27; test post</title>
         <author>
