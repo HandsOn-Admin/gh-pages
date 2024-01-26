@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://handson-admin.github.io/gh-pages/second-post.html",
+            "url": "https://handson-admin.github.io/gh-pages/second-post.html",
+            "title": "second Post",
+            "author": {
+                "name": "HandsOn"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-26T13:43:39+01:00",
+            "date_modified": "2024-01-26T13:44:41+01:00"
+        },
+        {
             "id": "https://handson-admin.github.io/gh-pages/this-is-moritz-test-post.html",
             "url": "https://handson-admin.github.io/gh-pages/this-is-moritz-test-post.html",
             "title": "This is Moritz&#x27; test post",
