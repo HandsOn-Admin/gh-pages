@@ -3,12 +3,24 @@
     <title>HandsOn</title>
     <link href="https://handson-admin.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://handson-admin.github.io/gh-pages" />
-    <updated>2024-01-26T13:44:41+01:00</updated>
+    <updated>2024-01-26T13:51:59+01:00</updated>
     <author>
         <name>HandsOn</name>
     </author>
     <id>https://handson-admin.github.io/gh-pages</id>
 
+    <entry>
+        <title>thrid test post!</title>
+        <author>
+            <name>HandsOn</name>
+        </author>
+        <link href="https://handson-admin.github.io/gh-pages/thrid-test-post.html"/>
+        <id>https://handson-admin.github.io/gh-pages/thrid-test-post.html</id>
+
+        <updated>2024-01-26T13:51:59+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>second Post</title>
         <author>
